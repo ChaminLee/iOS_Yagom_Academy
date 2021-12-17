@@ -13,6 +13,10 @@
 |🍓 쥬스메이커|2021.10.18 ~ 2021.11.05|팀(3인)|[쥬스메이커](https://github.com/ChaminLee/ios-juice-maker)|    
 |📱 계산기(개인)|2021.11.08 ~ 2021.11.19|개인|[계산기(개인)](https://github.com/ChaminLee/ios-calculator-app)|
 |📱 계산기(팀)|2021.11.22 ~ 2021.11.26|팀(2인)|[계산기(팀)](https://github.com/ChaminLee/ios-calculator-app/tree/step2-develop)|
+|🌎 만국박람회(팀)|2021.12.06 ~ 2021.12.17|팀(3인)|[만국박람회(팀)](https://github.com/ChaminLee/iOS_Yagom_Exposition_Universelle)|
+
+
+
 
 ## TIL
 
