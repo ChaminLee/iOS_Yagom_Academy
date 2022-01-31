@@ -15,6 +15,7 @@
 |📱 계산기(팀)|2021.11.22 ~ 2021.11.26|팀(2인)|[계산기(팀)](https://github.com/ChaminLee/ios-calculator-app/tree/step2-develop)|
 |🌎 만국박람회(팀)|2021.12.06 ~ 2021.12.17|팀(3인)|[만국박람회(팀)](https://github.com/ChaminLee/iOS_Yagom_Exposition_Universelle)|
 |🏦 은행 매니저|2021.12.20 ~ 2021.12.31|팀(2인)|[은행 매니저(팀)](https://github.com/ChaminLee/ios-bank-manager)|
+|🏪 오픈 마켓|2022.01.03 ~ 2022.01.28|팀(2인)|[오픈 마켓(팀)](https://github.com/ChaminLee/ios-open-market)|
 
 
 ## TIL
